@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Dicee 2.0</string>
+    <string name="roll_button_text">Roll !</string>
+    <string name="plyagn_button_text">Play Again ?</string>
+    <string name="firstplayer_button_text">First player</string>
+    <string name="secondplayer_button_text">Second player</string>
+    <string name="firstwinner_text">1st Player Wins</string>
+    <string name="secondwinner_text">2nd Player Wins</string>
+</resources>

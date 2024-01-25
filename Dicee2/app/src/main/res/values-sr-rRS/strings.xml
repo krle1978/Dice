@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee 2.0</string>
+    <string name="roll_button_text">Zavrti !</string>
+    <string name="plyagn_button_text">Igraj ponovo ?</string>
+    <string name="firstplayer_button_text">Prvi igrač</string>
+    <string name="secondplayer_button_text">Drugi igrač</string>
+    <string name="firstwinner_text">1. Igrač poneđuje</string>
+    <string name="secondwinner_text">2. Igrač poneđuje</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee 2.0</string>
+    <string name="roll_button_text">Drehen !</string>
+    <string name="plyagn_button_text">Spiel Wieder ?</string>
+    <string name="firstplayer_button_text">Erste Spieler</string>
+    <string name="secondplayer_button_text">Zweite Spieler</string>
+    <string name="firstwinner_text">Erste Spieler hat gewinnt</string>
+    <string name="secondwinner_text">Zweite Spieler hat gewinnt</string>
+</resources>
